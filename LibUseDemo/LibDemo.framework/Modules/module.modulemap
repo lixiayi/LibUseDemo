@@ -1,0 +1,6 @@
+framework module LibDemo {
+  umbrella header "LibDemo.h"
+
+  export *
+  module * { export * }
+}
